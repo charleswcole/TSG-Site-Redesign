@@ -1,0 +1,88 @@
+<hr class="featurette-divider">
+      <!-- Three columns of text below the carousel -->
+      <div class="row">
+        <div class="col-lg-4">
+          <img class="img" src="assets/img/globelogo140.png" alt="TSG">
+          <h2>Logistics Services and Freight Brokerage</h2>
+          <p>In order to generate the savings that you expect, we carefully inspect your company’s complete shipping operations. This includes a thorough FREE transportation analysis and is followed up with evaluation of logistics details throughout the process.</p>
+          <p><a class="btn btn-default" href="#">View details &raquo;</a></p>
+        </div><!-- /.col-lg-4 -->
+        <div class="col-lg-4">
+          <img class="img" src="assets/img/ContactIcon_000033.png" alt="Audit">
+          <h2>Freight Payments, Audits and More</h2>
+          <p>DTSG is committed to removing painful surprises. By performing the proper auditing functions, we can determine the steps your office can take immediately to eliminate waste. We have capabilities and resources for every aspect of the logistics process.</p>
+          <p><a class="btn btn-default" href="#">View details &raquo;</a></p>
+        </div><!-- /.col-lg-4 -->
+        <div class="col-lg-4">
+          <img class="img" src="assets/img/ContactIcon_00031.png" alt="Generic placeholder image">
+          <h2>Specialized Services Division</h2>
+          <p>Where do you turn when a special challenge comes along that you are not accustomed to dealing with swiftly? Whether your needs include solutions for ... sensitive cargo, trade show related deliveries, international shipments, air freight or warehousing, TSG is prepared to help you meet your goals.</p>
+          <p><a class="btn btn-default" href="#">View details &raquo;</a></p>
+        </div><!-- /.col-lg-4 -->
+      </div><!-- /.row -->
+
+
+      <!-- START THE FEATURETTES -->
+
+      <hr class="featurette-divider">
+
+      <div class="row featurette">
+        <div class="col-md-7">
+          <h2 class="featurette-heading">Logistics Services and Freight Brokerage.  <span class="text-muted">Saving You Time and Money</span></h2>
+          <p class="lead">In order to generate the savings that you expect, we carefully inspect your company’s complete shipping operations. This includes a thorough FREE transportation analysis and is followed up with evaluation of logistics details throughout the process.</p>
+        </div>
+        <div class="col-md-5">
+          <img class="featurette-image img-responsive" src="assets/img/big1.png" alt="Generic placeholder image">
+        </div>
+      </div>
+
+      <hr class="featurette-divider">
+
+      <div class="row featurette">
+        <div class="col-md-5">
+          <img class="featurette-image img-responsive" src="assets/img/big3.png" alt="Generic placeholder image">
+        </div>
+        <div class="col-md-7">
+          <h2 class="featurette-heading">Freight Payments, Audits and More. <span class="text-muted">We Take Care of it All.</span></h2>
+          <p class="lead">TSG is committed to removing painful surprises. By performing the proper auditing functions, we can determine the steps your office can take immediately to eliminate waste. We have capabilities and resources for every aspect of the logistics process.</p>
+        </div>
+      </div>
+
+      <hr class="featurette-divider">
+
+      <div class="row featurette">
+        <div class="col-md-7">
+          <h2 class="featurette-heading">Specialized Services Division. <span class="text-muted">We Can Handle Anything.</span></h2>
+          <p class="lead">Where do you turn when a special challenge comes along that you are not accustomed to dealing with swiftly? Whether your needs include solutions for ... sensitive cargo, trade show related deliveries, international shipments, air freight or warehousing, TSG is prepared to help you meet your goals.</p>
+        </div>
+        <div class="col-md-5">
+          <img class="featurette-image img-responsive" src="assets/img/big2.png" alt="Generic placeholder image">
+        </div>
+      </div>
+
+      <hr class="featurette-divider">
+
+      <!-- /END THE FEATURETTES -->
+	  
+	  	<!-- START SOCIAL TRUCKS -->
+			<div class="row">
+				<div class="col-sm-4 col-lg-4">
+					<img src="assets/img/fb.png" style="width: 370px; height: 370px;">
+					<h2>Like Us</h2>
+				</div>
+				<!-- /.span4 -->
+				<div class="col-sm-4 col-lg-4">
+					<img src="assets/img/in.png" style="width: 370px; height: 370px;">
+					<h2>Join Our Network</h2>
+				</div>
+				<!-- /.span4 -->
+				<div class="col-sm-4 col-lg-4">
+					<img src="assets/img/tw.png" style="width: 370px; height: 370px;">
+					<h2>Follow Us</h2>
+					<br><br>
+				</div>
+				<!-- /.span4 -->
+			</div>
+			<!-- /.row -->
+			<!-- END SOCIAL TRUCKS -->
+			<hr>

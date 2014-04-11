@@ -1,0 +1,252 @@
+#graph {
+	position: relative;
+	bottom: 140px;
+	width: 100%;
+	height: 100px;
+	overflow: hidden;
+	top: -50px;
+	margin-top: -50px;
+	padding-bottom: 0px;
+}
+
+#graphsmall {
+	position: relative;
+	bottom: 140px;
+	width: 100%;
+	height: 100px;
+	overflow: hidden;
+	top: 0px;
+	margin-top: -100px;
+	padding-bottom: 0px;
+}
+
+
+
+.bar {
+	display: inline-block;
+	vertical-align: baseline;
+	width: 10px;
+	background: rgba(255,255,255,0.1);
+	margin-right: 1px;
+}
+
+#myCarousel {
+	background: #2797c8; /* Old browsers */
+	background: -moz-radial-gradient(center, ellipse cover, #2797c8 48%, #36515d 100%); /* FF3.6+ */
+	background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(48%, #2797c8), color-stop(100%, #36515d)); /* Chrome,Safari4+ */
+	background: -webkit-radial-gradient(center, ellipse cover, #2797c8 48%, #36515d 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-radial-gradient(center, ellipse cover, #2797c8 48%, #36515d 100%); /* Opera 12+ */
+	background: -ms-radial-gradient(center, ellipse cover, #2797c8 48%, #36515d 100%); /* IE10+ */
+	background: radial-gradient(ellipse at center, #2797c8 48%, #36515d 100%); /* W3C */
+ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#2797c8', endColorstr='#36515d', GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+}
+
+.carousel-inner { background: url('../img/grad.png') repeat-x top left }
+  /*background-image: url('../img/random_grey_variations.png');*/
+
+.contacttop { margin-top:50px;}
+
+.footer{
+color:#FFFFFF
+background-color: #2c3e50;
+border-color: #202d3b;
+margin-top:10px;
+}
+
+ /* Nav Bar Login Button
+    -------------------------------------------------- */
+.navbar .btn {
+margin-right: 5px;
+margin-top: 10px;
+margin-bottom: 10px;
+}
+
+.white {
+color:white;
+text-weight:bolder;
+}
+
+.whiteheader {
+color:white;
+text-weight:bolder;
+padding-top:20px;
+padding-right:15px;
+}
+
+.navbar-nav > li > a {
+padding-top: 20px;
+}
+
+.navbar-brand {
+padding-top: 20px;
+}
+/*
+.carousel-control.left {
+  background-image: -webkit-gradient(linear, 0 top, 100% top, from(rgba(255, 255, 255, 0.95)), to(rgba(255, 255, 255, 0.0001)));
+  background-image: -webkit-linear-gradient(left, color-stop(rgba(255, 255, 255, 0.95) 0), color-stop(rgba(255, 255, 255, 0.0001) 100%));
+  background-image: -moz-linear-gradient(left, rgba(255, 255, 255, 0.95) 0, rgba(255, 255, 255, 0.0001) 100%);
+  background-image: linear-gradient(to right, rgba(255, 255, 255, 0.95) 0, rgba(255, 255, 255, 0.0001) 100%);
+  background-repeat: repeat-x;
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#80000000', endColorstr='#00000000', GradientType=1);
+}
+
+.carousel-control.right {
+  right: 0;
+  left: auto;
+  background-image: -webkit-gradient(linear, 0 top, 100% top, from(rgba(255, 255, 255, 0.0001)), to(rgba(255, 255, 255, 0.95)));
+  background-image: -webkit-linear-gradient(left, color-stop(rgba(255, 255, 255, 0.0001) 0), color-stop(rgba(255, 255, 255, 0.95) 100%));
+  background-image: -moz-linear-gradient(left, rgba(255, 255, 255, 0.0001) 0, rgba(255, 255, 255, 0.95) 100%);
+  background-image: linear-gradient(to right, rgba(255, 255, 255, 0.0001) 0, rgba(255, 255, 255, 0.95) 100%);
+  background-repeat: repeat-x;
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#00000000', endColorstr='#80000000', GradientType=1);
+}
+*/
+
+
+.indent {
+    text-indent:30px;
+}
+
+.hrsmall {
+margin-bottom: 0px;
+}
+
+.customerlogo {
+margin-top: 15%;
+}
+
+.nav-pills > li{
+  color: #ffffff;
+  background-color: #2797C8;
+}
+
+.nav-pills a{
+  color: #ffffff;
+}
+
+.nav-pills .active{
+  color: #ffffff;
+  background-color: #FF7518;
+}
+.nav-pills > a:hover{
+  color: #ffffff;
+  background-color: #FF7518;
+}
+
+.well {
+  min-height: 20px;
+  padding: 19px;
+  margin-bottom: 20px;
+  background-color: #ffffff;
+  border: 0px solid #e3e3e3;
+  border-radius: 0;
+  -webkit-box-shadow: inset 0 0px 0px rgba(0, 0, 0, 0.0);
+          box-shadow: inset 0 0px 0px rgba(0, 0, 0, 0.0);
+}
+
+body {
+padding-top:0px;
+}
+
+h1[id] {
+padding-top:65px;
+}
+#custom-search-input {
+        margin:0;
+        margin-top: 0px;
+        padding: 0;
+    }
+ 
+    #custom-search-input .search-query {
+        padding-right: 3px;
+        padding-right: 4px \9;
+        padding-left: 3px;
+        padding-left: 4px \9;
+        /* IE7-8 doesn't have border-radius, so don't indent the padding */
+ 
+        margin-bottom: 0;
+        -webkit-border-radius: 3px;
+        -moz-border-radius: 3px;
+        border-radius: 3px;
+    }
+ 
+    #custom-search-input button {
+        border: 0;
+        background: none;
+        /** belows styles are working good */
+        padding: 2px 5px;
+        margin-top: 2px;
+        position: relative;
+        left: -28px;
+        /* IE7-8 doesn't have border-radius, so don't indent the padding */
+        margin-bottom: 0;
+        -webkit-border-radius: 3px;
+        -moz-border-radius: 3px;
+        border-radius: 3px;
+        color:#000000;
+    }
+ 
+    .search-query:focus + button {
+        z-index: 3;   
+    }
+
+.alert a, .alert .alert-link {
+text-decoration: none;
+margin-left:25px;
+}
+
+.shape{	
+	border-style: solid; border-width: 0 80px 45px 0; float:right; height: 0px; width: 0px;
+	-ms-transform:rotate(360deg); /* IE 9 */
+	-o-transform: rotate(360deg);  /* Opera 10.5 */
+	-webkit-transform:rotate(360deg); /* Safari and Chrome */
+	transform:rotate(360deg);
+}
+.offer{
+	background:#fff; border:1px solid #ddd; box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2); margin: 15px 0; overflow:hidden;
+}
+.offer-radius{
+	border-radius:7px;
+}
+.offer-danger {	border-color: #d9534f; }
+.offer-danger .shape{
+	border-color: transparent #d9534f transparent transparent;
+	border-color: rgba(255,255,255,0) #d9534f rgba(255,255,255,0) rgba(255,255,255,0);
+}
+.offer-success {	border-color: #5cb85c; }
+.offer-success .shape{
+	border-color: transparent #5cb85c transparent transparent;
+	border-color: rgba(255,255,255,0) #5cb85c rgba(255,255,255,0) rgba(255,255,255,0);
+}
+.offer-default {	border-color: #999999; }
+.offer-default .shape{
+	border-color: transparent #999999 transparent transparent;
+	border-color: rgba(255,255,255,0) #999999 rgba(255,255,255,0) rgba(255,255,255,0);
+}
+.offer-primary {	border-color: #428bca; }
+.offer-primary .shape{
+	border-color: transparent #428bca transparent transparent;
+	border-color: rgba(255,255,255,0) #428bca rgba(255,255,255,0) rgba(255,255,255,0);
+}
+.offer-info {	border-color: #5bc0de; }
+.offer-info .shape{
+	border-color: transparent #5bc0de transparent transparent;
+	border-color: rgba(255,255,255,0) #5bc0de rgba(255,255,255,0) rgba(255,255,255,0);
+}
+.offer-warning {	border-color: #f0ad4e; }
+.offer-warning .shape{
+	border-color: transparent #f0ad4e transparent transparent;
+	border-color: rgba(255,255,255,0) #f0ad4e rgba(255,255,255,0) rgba(255,255,255,0);
+}
+
+.shape-text{
+	color:#fff; font-size:12px; font-weight:bold; position:relative; right:-40px; top:2px; white-space: nowrap;
+	-ms-transform:rotate(30deg); /* IE 9 */
+	-o-transform: rotate(360deg);  /* Opera 10.5 */
+	-webkit-transform:rotate(30deg); /* Safari and Chrome */
+	transform:rotate(30deg);
+}	
+.offer-content{
+	padding:0 20px 10px;
+}
+
